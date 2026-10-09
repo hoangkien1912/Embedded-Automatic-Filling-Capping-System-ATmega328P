@@ -9,9 +9,7 @@
 #include <util/atomic.h>
 
 #define AUTO_OFF_TIME_MS    30000UL
-
 #define HEAD_CONFIRM_MS     200UL
-
 #define DEBOUNCE_MS         20U
 #define INPUT_COUNT         7U
 
